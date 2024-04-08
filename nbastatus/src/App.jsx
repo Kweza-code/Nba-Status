@@ -1,7 +1,8 @@
+import Header from "./Components/Header";
 function App() {
   return (
     <div className="App">
-      <h1>Nba Status</h1>
+      <Header />
     </div>
   );
 }
